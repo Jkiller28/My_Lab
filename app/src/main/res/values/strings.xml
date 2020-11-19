@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Implicit and Explicit Intents</string>
+    <string name="search_browser">Search Browser</string>
+    <string name="camera">Camera</string>
+    <string name="chat_message">Chat Message</string>
+    <string name="open_microsoft_word">Open Microsoft Word</string>
+    <string name="tasks">TASKS</string>
+    <string name="boom">Boom</string>
+</resources>
